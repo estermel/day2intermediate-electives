@@ -13,6 +13,8 @@ public class Main {
         laptop.plugIn(headphone);
         printer.plugIn(headphone);
         laptop.plugIn(flashdisk);
+
+        System.out.println("asdfad");
     }
 
 }
